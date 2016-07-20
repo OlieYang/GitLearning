@@ -1,1 +1,8 @@
 熟悉代码的 merge pull request 操作
+
+git status
+git reset head <filename>
+git checkout -- <filename>
+git diff <filename>
+git add <filename>
+git branch
