@@ -6,3 +6,5 @@ git checkout -- <filename>
 git diff <filename>
 git add <filename>
 git branch
+git rebase -i
+git push -f (当rebase 之后，要更新远端，push 的时候必须跟-f，否则报错)
